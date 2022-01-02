@@ -6,9 +6,7 @@ In the doc.pdf file there is a brief description of the project and its function
 --------------- DEMO ---------------------------
 
 At the following link there is a demo video of the application.
-...
-https://www.youtube.com/watch?v=2wluhOgK98s
-...
+> https://www.youtube.com/watch?v=2wluhOgK98s
 
 --------------- CODE -----------------------------
 
