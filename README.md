@@ -10,5 +10,8 @@ At the following link there is a demo video of the application.
 
 --------------- CODE -----------------------------
 
-In the backend folder there is the api project (code: backend \ routed \ src \ main \ java \ com \ federicoboni)
-In the frontend folder there is the Vue.js project of the application (code: frontend \ routed \ src)
+In the backend folder there is the api project. Code: 
+>backend\routed\src\main\java\com\federicoboni
+
+In the frontend folder there is the Vue.js project of the application.Code: 
+>code: frontend\routed\src
