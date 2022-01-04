@@ -14,11 +14,11 @@ https://www.youtube.com/watch?v=_q1ppwx1Mqs
 ```
 ## CODE
 
-In the backend folder there is the api project. Code: 
+In the backend folder there is the api project:
 ```
->backend\routed\src\main\java\com\federicoboni
+backend\routed\src\main\java\com\federicoboni
 ```
-In the frontend folder there is the Vue.js project of the application. Code: 
+In the frontend folder there is the Vue.js project of the application:
 ```
->frontend\src
+frontend\src
 ```
