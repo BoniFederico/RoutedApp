@@ -12,7 +12,7 @@ At the following link there is a demo video of the application.
 ```
 https://www.youtube.com/watch?v=_q1ppwx1Mqs
 ```
-# CODE
+## CODE
 
 In the backend folder there is the api project. Code: 
 ```
