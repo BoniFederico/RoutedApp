@@ -10,7 +10,7 @@ In the doc.pdf file there is a brief description of the project and its function
 
 At the following link there is a demo video of the application.
 ```
-> https://www.youtube.com/watch?v=_q1ppwx1Mqs
+https://www.youtube.com/watch?v=_q1ppwx1Mqs
 ```
 # CODE
 
