@@ -3,7 +3,7 @@
 ## DESCRIPTION  
  
 In the doc.pdf file there is a brief description of the project and its functions.
- 
+In the API-doc.html file there is the documentation of API endpoints.
 
 
 ## DEMO  
