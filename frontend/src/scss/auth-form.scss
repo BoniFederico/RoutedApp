@@ -1,0 +1,67 @@
+@import "default/theme-color";
+
+.form-control {
+  background-color: white;
+  /* color: $primary; */
+  border-color: $primary;
+  border-radius: 5px;
+
+  &:hover {
+    background-color: #f6fbfd;
+  }
+  &:focus,
+  &:active {
+    background-color: #eff7fa;
+    color: #333;
+    border-color: $primary;
+    box-shadow: 1px 1px $primary;
+    outline: 0 none;
+  }
+}
+
+.form-floating {
+  & label {
+    color: gray;
+  }
+}
+.info {
+  color: $info;
+  font-size: 18px !important;
+  padding-top: 5px;
+}
+.error {
+  font-size: 18px !important;
+  padding-top: 5px;
+  color: $delete;
+}
+.loading {
+  color: #828081;
+}
+.form-centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.form-signin,
+.form-signup {
+  background-color: rgba(255, 255, 255, 0.9);
+
+  border-color: $primary;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 400px;
+  padding: 15px;
+  margin: auto;
+}
+.main-title {
+  font-family: "Sofia", sans-serif;
+  color: $primary-title;
+}
+.second-text {
+  color: #a5c4c2;
+}
+.trailer {
+  font-size: 18px !important;
+  padding-top: 5px;
+}
