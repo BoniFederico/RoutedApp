@@ -10,7 +10,7 @@ In the API-doc.html file there is the documentation of API endpoints.
 
 At the following link there is a demo video of the application.
 ```
-https://www.youtube.com/watch?v=_q1ppwx1Mqs
+https://www.youtube.com/watch?v=2RqP0i5ZCNo
 ```
 ## CODE
 
