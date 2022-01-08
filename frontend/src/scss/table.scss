@@ -1,0 +1,15 @@
+th {
+  text-shadow: 0.3px 0.3px gray;
+}
+thead {
+  background-color: #40908b95;
+  font-size: 21px;
+  color: white;
+}
+tbody {
+  font-size: 18px;
+  border-top: 8px inset #40908b30;
+  & tr {
+    cursor: pointer;
+  }
+}
